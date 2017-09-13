@@ -1,0 +1,7 @@
+{
+    "name": "lyzy/slog",
+    "description": "php log helper for seaslog",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
