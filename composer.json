@@ -1,7 +1,7 @@
 {
     "name": "lyzy/slog",
     "description": "php log helper for seaslog",
-    "type": "library",
+    "type": "seaslog-extension",
     "keywords": [
         "seaslog",
         "log"
@@ -15,5 +15,6 @@
     ],
     "require": {
         "php": ">=5.4.0"
-    }
+    },
+    "minimum-stability": "stable"
 }
