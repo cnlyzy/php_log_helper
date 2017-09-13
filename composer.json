@@ -2,6 +2,18 @@
     "name": "lyzy/slog",
     "description": "php log helper for seaslog",
     "type": "library",
+    "keywords": [
+        "seaslog",
+        "log"
+    ],
     "license": "MIT",
-    "require": {}
+    "authors": [
+        {
+            "name": "cnlyzy",
+            "email": "cnlyzy@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
 }
